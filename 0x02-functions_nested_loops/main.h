@@ -52,7 +52,7 @@ void jack_bauer(void);
 
 
 
-void time_teble(void);
+void time_table(void);
 
 
 
